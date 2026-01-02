@@ -206,4 +206,3 @@ Built two stateless Spring Boot microservices and a PostgreSQL StatefulSet on Ku
 
 ---
 
-END OF DOCUMENT
